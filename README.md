@@ -12,7 +12,6 @@ Solutions to the problems on Hackerrank.com
 <b>Two arrays - </b> <a href = "https://www.hackerrank.com/challenges/two-arrays">Problem statement - </a> <a href = "https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/TwoArrays.cpp"> Solution </a> <br>
 <b>Angry Childrens - </b> <a hreaf = "https://www.hackerrank.com/challenges/angry-children">Problem statement - </a> <a href = "https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/AngryChildrens.cpp"> Solution </a><br>
 <b>Chocolate feast - </b> <a hreaf="https://www.hackerrank.com/challenges/chocolate-feast">Problem statement - </a> <a href ="https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/ChocolateFeast.cpp"> Solution </a><br>
-<b>Chocolate feast - </b> <a hreaf="https://www.hackerrank.com/challenges/chocolate-feast">Problem statement - </a> <a href ="https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/ChocolateFeast.cpp"> Solution </a><br>
 <b>Reverse a doubly linked list - </b> <a href = "https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list">Problem statement - </a>
 <a href =
 "https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/ReverseDoublyLinkedList.cpp"> Solution </a><br>
