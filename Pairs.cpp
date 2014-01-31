@@ -1,3 +1,5 @@
+//Given N integers, count the total pairs of integers that have a difference of K. 
+
 #include <set>
 #include <cstdint>
 #include <iostream>
