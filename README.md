@@ -15,3 +15,4 @@ Solutions to the problems on Hackerrank.com
 
 6.<b>Couting sort 2 - </b> <a href = "https://www.hackerrank.com/challenges/countingsort2">Problem statement - </a> <a href = "https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/counting_sort2.cpp" > Solution </a>
 
+7.<b>Lonely Integer - </b> <a href = "https://www.hackerrank.com/challenges/lonely-integer">Problem statement - </a> <a href = "https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/LonelyInteger.cpp"> Solution </a> 
