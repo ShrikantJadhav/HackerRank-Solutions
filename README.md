@@ -3,6 +3,7 @@ HackerRank-Solution
 
 Solutions to the problems on Hackerrank.com
 
+<b>Missing Number - </b><a href = "https://www.hackerrank.com/challenges/missing-numbers">Problem statement - </a><a href = "https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/MissingNumber.cpp"> Solution  </a><br>
 <b>Pairs -</b> <a href = "https://www.hackerrank.com/challenges/pairs">Problem statement - </a> <a href = "https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/Pairs.cpp" > Solution </a><br>
 <b>Closest Numbers - </b> <a href = "https://www.hackerrank.com/challenges/closest-numbers">Problem statement - </a> <a href = "https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/closest.cpp" > Solution </a><br>
 <b>Service lane - </b> <a href = "https://www.hackerrank.com/challenges/service-lane">Problem statement - </a> <a href = "https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/Service_lane.cpp" > Solution </a><br>
@@ -17,4 +18,5 @@ Solutions to the problems on Hackerrank.com
 "https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/ReverseDoublyLinkedList.cpp"> Solution </a><br>
 <b>Compare linked lists - </b> <a href = "https://www.hackerrank.com/challenges/compare-two-linked-lists">Problem statement - </a><a href = "https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/CompareLinkedLists.cpp"> Solution</a><br>
 <b>Merge sorted linked lists - </b> <a href = "https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists">Problem statement</a> <a href = "https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/MergeSortLinkedLists.cpp"> Solution</a><br>
-<b>Detect cycle in linked list</b><a hreaf = "https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle">Problem statement - </a> <a href = "https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/LinkedListCycle.cpp"> Solution</a><br>
+<b>Detect cycle in linked list - </b><a hreaf = "https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle">Problem statement - </a> <a href = "https://github.com/ShrikantJadhav/HackerRank-Solution/blob/master/LinkedListCycle.cpp"> Solution </a><br>
+
